@@ -1,4 +1,5 @@
 # Valostretch
+A program to make Valorant really stretched easily
 ## How to use:
 1 - Make sure that in Valorant the "Aspect Ratio Method" option is set to "Fill".
 
